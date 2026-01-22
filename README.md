@@ -1,4 +1,4 @@
-## Hi, I'm Nikhil 👋
+## Hello, I'm Nikhil 👋
 
 🎓 3rd-year Computer Science Engineering student  
 💻 Learning full-stack development (MERN)  
