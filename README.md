@@ -1,5 +1,5 @@
 ## Hello, I'm Nikhil 👋
 
-🎓 3rd-year Computer Science Engineering student  
-💻 Learning full-stack development (MERN)  
+🎓 Final year Computer Science Engineering student  
+💻 full-stack developer (MERN)  
 🧠 Practicing DSA in Java on LeetCode  
